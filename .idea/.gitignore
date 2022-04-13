@@ -13,4 +13,5 @@
 !src/**/build/
 *.gradle
 *.bat
-/gradle/
+gradle/
+.idea/
