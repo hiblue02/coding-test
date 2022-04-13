@@ -13,5 +13,13 @@
 !src/**/build/
 *.gradle
 *.bat
-gradle/
-.idea/
+.gradle
+
+## java template
+.class
+.war
+.jar
+
+## Intellij IDEA ##
+.idea
+*.xml
