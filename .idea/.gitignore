@@ -8,8 +8,9 @@
 /dataSources.local.xml
 
 ### Gradle ###
-/.gradle/
+**/.gradle/
 **/build/
 !src/**/build/
 *.gradle
 *.bat
+/gradle/
