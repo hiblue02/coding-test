@@ -1,6 +1,6 @@
 package leetcode;
 
-import org.junit.jupiter.api.Assertions;
+import leetcode.array.ThreeSum;
 import org.junit.jupiter.api.Test;
 
 
@@ -15,7 +15,7 @@ class L15ThreeSumTest {
     @Test
     public void test1(){
 
-        L15ThreeSum solution = new L15ThreeSum();
+        ThreeSum solution = new ThreeSum();
 
         int[] input = {-1,0,1,2,-1,-4};
 

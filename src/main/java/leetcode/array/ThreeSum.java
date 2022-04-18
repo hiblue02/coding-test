@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.array;
 
 import java.util.Arrays;
 import java.util.LinkedList;
@@ -9,7 +9,7 @@ import java.util.List;
 * 난이도 : 미디움
 * 문제 내용 요약 : 주어진 배열에서 3개 숫자를 꺼냄. 3개 숫자를 더해서 0이 되는 경우의 집합 구하기
 */
-public class L15ThreeSum {
+public class ThreeSum {
 
     public List<List<Integer>> threeSum(int[] nums) {
 
